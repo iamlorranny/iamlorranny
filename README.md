@@ -1,4 +1,7 @@
-### Hi there 👋
+###  Olá, me chamo Lorrany e sou estudande de Desenvolvimento de Software e tecnologias!
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamlorranny)](https://github.com//github-readme-stats)
+
 
 <!--
 **iamlorranny/iamlorranny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
